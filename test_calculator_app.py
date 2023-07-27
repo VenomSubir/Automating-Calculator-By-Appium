@@ -67,5 +67,5 @@ clear2.click()
 
 print("Thanks For Using Our Calculator")
 
-time.sleep(5)
+time.sleep(10)
 driver.quit()
